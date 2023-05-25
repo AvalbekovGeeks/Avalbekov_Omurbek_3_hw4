@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Avalbekov_Omurbek_3_hw4</string>
+    <string name="_999">999$</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="helloworld">HelloWorld</string>
+    <string name="descriptionof">DescriptionOf</string>
+    <string name="_9999">9999</string>
+</resources>
